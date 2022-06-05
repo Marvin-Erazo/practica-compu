@@ -10,4 +10,5 @@
 <li>María José Tapia</li>
 
 ### Pagina web
-
+Deploy con [Netlify](https://app.netlify.com/teams/marvin-erazo/overview).
+[Link](https://practica-compu.netlify.app/).
