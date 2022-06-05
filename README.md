@@ -4,10 +4,10 @@
 <li>Utilizar un servicio de publicación de aplicaciones en la nube, gratuito, publicar una aplicción Web (HEROKU).</li>
  
 ### Integrantes
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Marvin Erazo</li>
+<li>Greys Villa</li>
+<li>Lisbeth Soria </li>
+<li>María José Tapia</li>
 
 ### Pagina web
 
