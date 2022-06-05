@@ -11,4 +11,4 @@
 
 ### Pagina web
 Deploy con [Netlify](https://app.netlify.com/teams/marvin-erazo/overview). <br>
-[Link](https://practica-compu.netlify.app/).
+Enlace de la pagina [Web](https://practica-compu.netlify.app/).
